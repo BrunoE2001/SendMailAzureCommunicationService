@@ -1,6 +1,6 @@
 # Proyecto Node.js - Optimización de Envío de Correos Electrónicos con Azure Communication Services
 
-![Azure Logo](https://azure.microsoft.com/svghandler/azure-logo?width=800)
+![Azure Logo](https://azure.microsoft.com/svghandler/azure-logo?width=50)
 
 ## Descripción
 
